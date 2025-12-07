@@ -1,5 +1,5 @@
 <script lang="ts">
-	// No imports needed for pure brutalist design
+	import { base } from '$app/paths';
 </script>
 
 <svelte:head>
@@ -156,7 +156,7 @@
 					<span class="tech-tag">TYPESCRIPT</span>
 					<span class="tech-tag">TAILWIND</span>
 				</div>
-				<a href="/portal" class="portfolio-link">VISIT PROJECT</a>
+				<a href="{base}/portal" class="portfolio-link">VISIT PROJECT</a>
 			</div>
 
 

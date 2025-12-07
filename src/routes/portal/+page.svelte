@@ -93,8 +93,8 @@
 		<div class="pricing-grid">
 			<div class="pricing-card">
 				<h3 class="pricing-title">BASIC</h3>
-				<div class="pricing-amount">$29</div>
-				<p class="pricing-period">ONE TIME</p>
+				<div class="pricing-amount">6000 inr</div>
+				<p class="pricing-period">PER MONTH</p>
 				<ul class="pricing-features">
 					<li>BASIC PORTAL ACCESS</li>
 					<li>EMAIL SUPPORT</li>
@@ -105,7 +105,7 @@
 			</div>
 
 			<div class="pricing-card featured">
-				<div class="pricing-badge">BEST VALUE</div>
+				<div class="pricing-badge">12000-15000 inr</div>
 				<h3 class="pricing-title">STANDARD</h3>
 				<div class="pricing-amount"></div>
 				<p class="pricing-period">ONE TIME</p>
@@ -206,7 +206,7 @@
 			</div>
 		</div>
 		<div class="footer-bottom">
-			<p>© 2024 PORTAL SALE. ALL RIGHTS RESERVED. SECURE PAYMENTS.</p>
+			<p>© 2025 PORTAL SALE. ALL RIGHTS RESERVED. SECURE PAYMENTS.</p>
 		</div>
 	</footer>
 </div>

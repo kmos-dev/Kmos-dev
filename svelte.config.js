@@ -16,7 +16,7 @@ const config = {
 			strict: false
 		}),
 		paths: {
-			base: process.env.GITHUB_PAGES === 'true' ? '/KMOS-DEV' : '',
+			base: process.env.GITHUB_PAGES === 'true' ? '/Kmos-dev' : '',
 		},
 		prerender: {
 			handleMissingId: 'warn',
